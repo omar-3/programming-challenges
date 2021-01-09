@@ -9,3 +9,9 @@
 
 #
 ## Table of Contents
+
+|Problem|Language|Explanation|
+|--|--|--|
+|The 3n+1 Problem|||
+|Minesweeper|||
+|The Trip|||
